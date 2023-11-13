@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Built output
+dist/
+
+# Environment variables
+.env
+
+# TypeScript cache
+*.tsbuildinfo
